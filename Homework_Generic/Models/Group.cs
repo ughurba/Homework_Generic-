@@ -7,16 +7,30 @@ namespace Homework_Generic
     public class Group
     {
 
+        public static int result { get; set; }
 
        private  List<Student> students = new List<Student>();
-        private static int CurrentId = 101;
+        //private static int CurrentId = 101;
         public string GroupNo { get; }
         public Group()
         {
 
-            GroupNo = $"AP{CurrentId++}";
+            string str = "AP101";
+            string digits = new string(str.Where(char.IsDigit).ToArray());
+            string letters = new string(str.Where(char.IsLetter).ToArray());
+            int num;
+            int.TryParse(digits, out num);
+            result++;
+            num = num + result;
+            digits = Convert.ToString(num);
+            letters = letters + digits;
+            Console.WriteLine(letters);
 
-            Console.WriteLine(GroupNo);
+
+
+            //GroupNo = $"AP{CurrentId++}";
+
+            //Console.WriteLine(GroupNo);
 
         }
 
