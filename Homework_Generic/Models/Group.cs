@@ -9,7 +9,7 @@ namespace Homework_Generic
 
 
        private  List<Student> students = new List<Student>();
-        private static int CurrentId = 100;
+        private static int CurrentId = 101;
         public string GroupNo { get; }
         public Group()
         {

@@ -25,19 +25,19 @@ namespace Homework_Generic
             Console.WriteLine(student3 > student4);
             Console.WriteLine(student3 < student4);
 
-            Group group = new Group();
+            Group group = new Group(); //AP101
             group.AddStudent(student);
             group.AddStudent(student2);
             group.AddStudent(student3);
             group.AddStudent(student4);
             group.GetAllStudents();
             group.Sort();
-            Group group1 = new Group();
-            Group group2 = new Group();
-            Group group3 = new Group();
-            Group group4 = new Group();
-            Group group5 = new Group();
-            Group group6 = new Group();
+            Group group1 = new Group();//AP102
+            Group group2 = new Group();//AP103
+            Group group3 = new Group();//AP104
+            Group group4 = new Group();//AP105
+            Group group5 = new Group();//AP106
+            Group group6 = new Group();//AP107
 
 
         }
