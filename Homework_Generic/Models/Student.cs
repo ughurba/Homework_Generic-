@@ -35,7 +35,6 @@ namespace Homework_Generic
 
 
 
-
         public void ShowInfo()
         {
             Console.WriteLine($"Id student:{Id}\nName:{Name}\nSurname:{Surname}\nAge:{Age}\nPoint:{Point}");

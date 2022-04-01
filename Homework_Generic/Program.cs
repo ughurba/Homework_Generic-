@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text.RegularExpressions;
 
 namespace Homework_Generic
 {
@@ -23,9 +20,11 @@ namespace Homework_Generic
             Student student2 = new Student("Efqan", "Hesenov", 27, 42);
             Student student3 = new Student("Orxan", "Salmanov", 25, 60);
             Student student4 = new Student("Afet", "Salmanova", 25, 33);
-            Console.WriteLine(student>student2);
+            Console.WriteLine(student > student2);
             Console.WriteLine(student2 < student);
-            
+            Console.WriteLine(student3 > student4);
+            Console.WriteLine(student3 < student4);
+
             Group group = new Group();
             group.AddStudent(student);
             group.AddStudent(student2);
