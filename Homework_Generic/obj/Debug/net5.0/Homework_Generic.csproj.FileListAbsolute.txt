@@ -1,0 +1,16 @@
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\bin\Debug\net5.0\Homework_Generic.exe
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\bin\Debug\net5.0\Homework_Generic.deps.json
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\bin\Debug\net5.0\Homework_Generic.runtimeconfig.json
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\bin\Debug\net5.0\Homework_Generic.runtimeconfig.dev.json
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\bin\Debug\net5.0\Homework_Generic.dll
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\bin\Debug\net5.0\Homework_Generic.pdb
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\obj\Debug\net5.0\Homework_Generic.csproj.AssemblyReference.cache
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\obj\Debug\net5.0\Homework_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\obj\Debug\net5.0\Homework_Generic.AssemblyInfoInputs.cache
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\obj\Debug\net5.0\Homework_Generic.AssemblyInfo.cs
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\obj\Debug\net5.0\Homework_Generic.csproj.CoreCompileInputs.cache
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\obj\Debug\net5.0\Homework_Generic.dll
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\obj\Debug\net5.0\refint\Homework_Generic.dll
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\obj\Debug\net5.0\Homework_Generic.pdb
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\obj\Debug\net5.0\Homework_Generic.genruntimeconfig.cache
+C:\Users\Clean__Laptop\Desktop\Homework_Generic\Homework_Generic\obj\Debug\net5.0\ref\Homework_Generic.dll
