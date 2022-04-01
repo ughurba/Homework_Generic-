@@ -19,9 +19,13 @@ namespace Homework_Generic
 
 
             Student student = new Student("Sahil", "Mamedov", 25, 100);
+
             Student student2 = new Student("Efqan", "Hesenov", 27, 42);
             Student student3 = new Student("Orxan", "Salmanov", 25, 60);
             Student student4 = new Student("Afet", "Salmanova", 25, 33);
+            Console.WriteLine(student>student2);
+            Console.WriteLine(student2 < student);
+            
             Group group = new Group();
             group.AddStudent(student);
             group.AddStudent(student2);
@@ -29,7 +33,12 @@ namespace Homework_Generic
             group.AddStudent(student4);
             group.GetAllStudents();
             group.Sort();
-
+            Group group1 = new Group();
+            Group group2 = new Group();
+            Group group3 = new Group();
+            Group group4 = new Group();
+            Group group5 = new Group();
+            Group group6 = new Group();
 
 
         }
