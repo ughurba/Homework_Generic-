@@ -8,7 +8,7 @@ namespace Homework_Generic
     {
 
 
-        List<Student> students = new List<Student>();
+       private  List<Student> students = new List<Student>();
         private static int CurrentId = 100;
         public string GroupNo { get; }
         public Group()
