@@ -14,7 +14,7 @@ namespace Homework_Generic
         public string GroupNo { get; }
         public Group()
         {
-
+            // Avtomatik olaraq her obyekt yarananda stringin reqemin artiri 
             string str = "AP101";
             string digits = new string(str.Where(char.IsDigit).ToArray());
             string letters = new string(str.Where(char.IsLetter).ToArray());
